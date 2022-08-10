@@ -1,0 +1,33 @@
+.app__wrapper_info {
+  display: flex;
+  gap: 2rem;
+}
+
+.app__chef-content {
+  position: relative;
+}
+
+.app__chef-content_quote {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.app__chef-content_quote img {
+  width: 2rem;
+  margin: 0 1rem 1rem 0;
+}
+
+.app__chef-sign p:first-child {
+  color: var(--color-golden);
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}
+.app__chef-sign .p__opensans {
+  font-size: 0.75rem;
+}
+.app__chef-sign img {
+  width: 200px;
+  margin-top: 1.5rem;
+}
+
+/*# sourceMappingURL=Chef.css.map */
