@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.scss';
+import './Header.css';
 import {SubHeading} from "../../components";
 import images from '../../constants/images';
 
