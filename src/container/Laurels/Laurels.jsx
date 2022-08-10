@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Laurels.css';
+import './Laurels.scss';
 import {SubHeading} from "../../components";
 import {data, images} from "../../constants";
 

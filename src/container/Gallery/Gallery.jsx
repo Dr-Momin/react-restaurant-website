@@ -3,7 +3,7 @@ import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
-import './Gallery.css';
+import './Gallery.scss';
 
 const Gallery = () => {
     const scrollRef = React.useRef(null);

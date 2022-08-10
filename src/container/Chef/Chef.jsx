@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Chef.css';
+import './Chef.scss';
 import {SubHeading} from "../../components";
 import { images } from '../../constants';
 
