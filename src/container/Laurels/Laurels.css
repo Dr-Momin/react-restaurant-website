@@ -1,0 +1,20 @@
+.app__laurels_awards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.app__laurels_awards {
+  display: flex;
+  gap: 2rem;
+}
+.app__laurels_awards-card {
+  display: flex;
+  flex: 1;
+  min-width: 230px;
+}
+.app__laurels_awards img {
+  height: 50px;
+  width: 50px;
+}
+
+/*# sourceMappingURL=Laurels.css.map */
